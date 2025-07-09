@@ -1,0 +1,52 @@
+[
+  {
+    "name": "COMMANDER",
+    "score": 5000,
+    "difficulty": "HARD"
+  },
+  {
+    "name": "GENERAL",
+    "score": 4200,
+    "difficulty": "HARD"
+  },
+  {
+    "name": "COLONEL",
+    "score": 3800,
+    "difficulty": "NORMAL"
+  },
+  {
+    "name": "MAJOR",
+    "score": 3200,
+    "difficulty": "NORMAL"
+  },
+  {
+    "name": "CAPTAIN",
+    "score": 2800,
+    "difficulty": "NORMAL"
+  },
+  {
+    "name": "COOLIO",
+    "score": 2300,
+    "difficulty": "NORMAL"
+  },
+  {
+    "name": "LIEUTENANT",
+    "score": 2200,
+    "difficulty": "EASY"
+  },
+  {
+    "name": "COOLIO",
+    "score": 2150,
+    "difficulty": "NORMAL"
+  },
+  {
+    "name": "PLAYER",
+    "score": 2100,
+    "difficulty": "HARD"
+  },
+  {
+    "name": "B",
+    "score": 2100,
+    "difficulty": "NORMAL"
+  }
+]
